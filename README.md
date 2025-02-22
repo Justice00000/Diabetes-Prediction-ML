@@ -33,4 +33,8 @@ The dataset contains multiple features relevant to diabetes prediction, includin
 3. Open and run `notebook.ipynb`.
 4. The best-trained model can be loaded from the `saved_models` directory.
 
-## Video Presentation
+# Video Presentation  
+
+Watch the video presentation below:  
+
+[![Watch the video](https://img.youtube.com/vi/3pR3YUm2DcA/maxresdefault.jpg)](https://youtu.be/3pR3YUm2DcA)
